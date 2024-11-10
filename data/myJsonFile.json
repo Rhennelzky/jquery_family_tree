@@ -1,12 +1,12 @@
 ﻿[{
-                        "head": "Ireneo Carpio",
+                        "head": "Ireneo Carpio / Catalina Carpio",
                         "id": "aa",
-                        "contents": "Grandfather",
+                        "contents": "Grandfather / Grandmother",
                         "children": [
                             {
-                                "head": "Rebecca Carleta",
+                                "head": "Arnel Carleta / Rebecca Carleta",
                                 "id": "a1",
-                                "contents": "Mother",
+                                "contents": "Father / Mother",
                                 "children": [
                                     { "head": "Rhennel Carleta", "id": "a11", "contents": "Me" }
                                 ]
